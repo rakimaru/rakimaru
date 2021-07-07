@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Obito
+title: Obito Uchiha
 metaTitle: Undefined Hokage
 postsHeading: 'Dark Mode '
 archiveButtonText: See all posts
